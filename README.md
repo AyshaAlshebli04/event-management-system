@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/5cb2e168-515d-42da-8c5a-9613249e2e87
+
+
+
+https://github.com/user-attachments/assets/064c9f65-8309-4bf9-aec7-12b871afd2f3
+
 # Event Management System
 
 A robust, full-stack web application designed for comprehensive event scheduling and task tracking. This project was built utilizing **Java enterprise technologies** following a clean separation of concerns through architectural design patterns.
@@ -9,7 +17,8 @@ A robust, full-stack web application designed for comprehensive event scheduling
 Below is a complete visual walkthrough of the platform's core functional flows, including user onboarding, real-time data persistence, and event handling.
 
 ### Full System Walkthrough
-[System Core Flows](https://github.com/AyshaAlshebli04/event-management-system/blob/main/Event%20Management%20System.MOV)
+[System Core Flows]https://github.com/user-attachments/assets/acfd1aec-6354-4ba4-b6c3-dab97cf6bcc0
+
 
 ---
 
