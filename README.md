@@ -4,16 +4,16 @@ A robust, full-stack web application designed for comprehensive event scheduling
 
 ---
 
-## 📽️ Application Demonstration
+## Application Demonstration
 
 Below is a complete visual walkthrough of the platform's core functional flows, including user onboarding, real-time data persistence, and event handling.
 
 ### Full System Walkthrough
-![System Core Flows](https://github.com/AyshaAlshebli04/event-management-system/blob/main/Event%20Management%20System.MOV)
+[System Core Flows](https://github.com/AyshaAlshebli04/event-management-system/blob/main/Event%20Management%20System.MOV)
 
 ---
 
-## 🏗️ Technical Architecture & Ecosystem
+## Technical Architecture & Ecosystem
 
 The backend implementation models an end-to-end relational ecosystem utilizing a modular object structure:
 
