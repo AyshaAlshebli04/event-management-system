@@ -1,6 +1,6 @@
 # Event Management System
 
-A robust, full-stack web application designed for comprehensive event scheduling and task tracking. This project was built utilizing **Java enterprise technologies** following a clean separation of concerns through architectural design patterns.
+A robust, full-stack web application designed for comprehensive event scheduling and task tracking. This project was built utilizing **Java enterprise technologies** following a clean separation of concerns and modular architecture principles.
 
 ---
 
@@ -9,9 +9,7 @@ A robust, full-stack web application designed for comprehensive event scheduling
 Below is a complete visual walkthrough of the platform's core functional flows, including user onboarding, real-time data persistence, and event handling.
 
 ### Full System Walkthrough
-[System Core Flows]
-(https://github.com/user-attachments/assets/689b713d-8bf1-4924-adc4-9f2b2bebc97c
-)
+[System Core Flows](https://github.com/user-attachments/assets/689b713d-8bf1-4924-adc4-9f2b2bebc97c)
 
 ---
 
@@ -33,3 +31,4 @@ Event_Management_System/
 │   ├── util/         # Database connection drivers (DBUtil)
 │   └── web/          # HTTP Controllers (Login, Register, Logout Servlets)
 └── web/              # Dynamic Presentation Layer (JSP views & custom CSS stylesheets)
+```
