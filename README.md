@@ -9,7 +9,7 @@ A robust, full-stack web application designed for comprehensive event scheduling
 Below is a complete visual walkthrough of the platform's core functional flows, including user onboarding, real-time data persistence, and event handling.
 
 ### Full System Walkthrough
-[System Core Flows]<video src="[جارٍ تسجيل الشاشة 2026-07-02 165802.mp4](https://github.com/AyshaAlshebli04/event-management-system/blob/main/Event%20Management%20System.MOV)" controls width="100%"></video>
+[System Core Flows]<video src="https://github.com/AyshaAlshebli04/event-management-system/blob/main/Event%20Management%20System.MOV" controls width="100%"></video>
 
 ---
 
