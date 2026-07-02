@@ -10,8 +10,8 @@ Below is a complete visual walkthrough of the platform's core functional flows, 
 
 ### Full System Walkthrough
 [System Core Flows]
-https://github.com/user-attachments/assets/acfd1aec-6354-4ba4-b6c3-dab97cf6bcc0
-
+(https://github.com/user-attachments/assets/689b713d-8bf1-4924-adc4-9f2b2bebc97c
+)
 
 ---
 
